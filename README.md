@@ -1,29 +1,5 @@
-# Bienvenido a mi sitio de documentación
-
----
-
-Este es un proyecto hecho con [_DocPress_](https://docpress.github.io/).
-
-_DocPress_ es una herramienta que sirve para generar micrositios de documentación.
-
-Nosotros escribimos la documentación en formato _markdown_ y _DocPress_ la convierte a código _HTML_.
-
-Para trabajar con _DocPress_ necesitamos tener instalado [_Node.js_](https://nodejs.org/en/).
-
-Una vez instalado _Node_, ejecutamos el siguiente comando para descargar _DocPress_:
-
-```bash
-npm install -g docpress
-```
-
-Para ejecutar el servidor de desarrollo de _DocPress_ ejecutamos el comando:
-
-```bash
-docpress serve
-```
-
-Para compilar y construir el sitio web ejecutamos el comando:
-
-```bash
-docpress b
-```
+# Christopher Ortiz
+- Edad 22 años
+- Naci el 6 de agosto del 2000
+- Me gusta el formula 1 e insisto que si no hay pisto no asisito. <3
+![img](https://scontent.fmex24-1.fna.fbcdn.net/v/t39.30808-6/304741133_2784476408353778_5102891875281673964_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VRQ_8ZkWqvkAX8pKI_k&_nc_ht=scontent.fmex24-1.fna&oh=00_AT-pKgdgYhRNf-4wd1RQK8y2Ig3X0kRv_AyVLaB6SV8EdA&oe=633A79CF)

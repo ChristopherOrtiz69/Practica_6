@@ -1,9 +1,17 @@
-- [Portada](../README.md)
-- Getting Started
-  - [Introduction](./getting-started/introduction.md)
-  - [Downloads](./getting-started/download.md)
-  - [Contents](./getting-started/contents.md)
-- Components
-  - [Alerts](./components/alerts.md)
-  - [Accordion](./components/accordion.md)
-  - [Buttons](./components/buttons.md)
+- [Portada](./README.md)
+- Videojeugos
+ - [crash](./Videojuegos/./crash.md)
+ - [f1](./Videojuegos/./f1.md)
+ - [Warzone](./Videojuegos/./Warzone.md)
+- Series
+ - [Breaking](./Series/./Breaking.md)
+ - [House](./Series/./House.md)
+ - [Mind](./Series/./Mind.md) 
+- Peliculas
+ - [Hirlandes](./Peliculas/./Hirlandes.md)
+ - [Infierno](./Peliculas/./Infierno.md)
+ - [Shrek](./Peliculas/./Shrek.md)
+- Libros 
+ - [Biblia](./Libros/./Biblia.md)
+ - [Leyes](./Libros/./Leyes.md)
+ - [Secreto](./Libros/./secreto.md)
